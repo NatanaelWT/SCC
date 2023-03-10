@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  /* border: red 1px solid; */
+}
+
+.navbar {
+  border-bottom: #e2e9e1 1px solid;
+}
